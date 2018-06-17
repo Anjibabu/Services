@@ -1,8 +1,20 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+       "userid": 1,
+       "first Name": "Anjibabu",
+       "last Name": "Kari",
+       "email":"anjibabukari@gmail.com",
+       "phone":"9505535000",
+        "password":"123"
+    },
+    {
+       "userid": 1,
+       "first Name": "Lakshmi",
+       "last Name": "Kari",
+       "email":"lakshmi.kolla4@gmail.com",
+       "phone":"9505535000",
+        "password":"123"
     }
   ],
   "profile": {
