@@ -2,16 +2,18 @@
   "users": [
     {
        "userid": 1,
-       "first Name": "Anjibabu",
-       "last Name": "Kari",
+       "firstName": "Anjibabu",
+       "lastName": "Kari",
+       "username":"Anjibabu",
        "email":"anjibabukari@gmail.com",
        "phone":"9505535000",
         "password":"123"
     },
     {
        "userid": 1,
-       "first Name": "Lakshmi",
-       "last Name": "Kari",
+       "firstName": "Lakshmi",
+       "lastName": "Kari",
+       "username":"Lakshmi",
        "email":"lakshmi.kolla4@gmail.com",
        "phone":"9505535000",
         "password":"123"
